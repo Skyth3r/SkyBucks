@@ -1,0 +1,48 @@
+{
+    "author": "Alexsander Akers",
+    "dependencies": {},
+    "keywords": [],
+    "name": "javapay",
+    "pebble": {
+        "displayName": "JavaPay",
+        "enableMultiJS": false,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/UpArrow.png",
+                    "name": "IMAGE_UP_ARROW",
+                    "type": "png"
+                },
+                {
+                    "file": "images/JavaPay.png",
+                    "name": "IMAGE_JAVAPAY",
+                    "type": "png"
+                },
+                {
+                    "file": "images/DownArrow.png",
+                    "name": "IMAGE_DOWN_ARROW",
+                    "type": "png"
+                },
+                {
+                    "file": "images/AppIcon.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_APP_ICON",
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "7c62a80d-bf8f-4cd0-879c-14b72f41079d",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.3.0"
+}
